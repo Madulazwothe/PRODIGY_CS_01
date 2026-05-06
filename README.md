@@ -1,6 +1,6 @@
-Caesar Cipher Implementation
+<h1>Caesar Cipher Implementation</h1>
 
-Objective
+<h2>Objective
 
 To implement a Caesar Cipher encryption and decryption tool using Python.
 
@@ -21,7 +21,7 @@ Tools Used
 
 Outcome
 
-This project helped in understanding basic cryptography concepts and how encryption works.
+This project helped in understanding basic cryptography concepts and how encryption works.</h2>
 
 
 <img width="720" height="1600" alt="Screenshot_20260506_063415_Chrome" src="https://github.com/user-attachments/assets/283bbcf4-690b-49b5-b37a-78eb7106e87f" />
