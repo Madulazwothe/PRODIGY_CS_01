@@ -24,4 +24,6 @@ Outcome
 This project helped in understanding basic cryptography concepts and how encryption works.
 
 
+<img width="720" height="1600" alt="Screenshot_20260506_063415_Chrome" src="https://github.com/user-attachments/assets/283bbcf4-690b-49b5-b37a-78eb7106e87f" />
+<img width="720" height="1600" alt="Screenshot_20260506_063144_Chrome" src="https://github.com/user-attachments/assets/3fed0e8b-a31e-483a-851d-825502fc8122" />
 
